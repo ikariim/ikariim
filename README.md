@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Karim 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Karim avatar" src="[![cropped-circle-image.png](https://i.postimg.cc/28MSfzx5/cropped-circle-image.png)](https://postimg.cc/F7b4yX8t)">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Karim avatar" src="https://i.postimg.cc/28MSfzx5/cropped-circle-image.png">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm Karim
 
