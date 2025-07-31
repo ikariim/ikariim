@@ -1,6 +1,6 @@
 <!-- ## Hi! I'm Karim 🖐️ -->
 
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Karim avatar" src="https://private-user-images.githubusercontent.com/174071491/466405825-6aafc0f1-1383-4a2f-8e02-6bb18c4dd9b2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTI1NzA1NzYsIm5iZiI6MTc1MjU3MDI3NiwicGF0aCI6Ii8xNzQwNzE0OTEvNDY2NDA1ODI1LTZhYWZjMGYxLTEzODMtNGEyZi04ZTAyLTZiYjE4YzRkZDliMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcxNVQwOTA0MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NzViNTc0OGZhMjZhZGZlMzVkNTA5YTcwNDJiNWQwMTg2YmVlZGJiN2Y4ODJlYTdmYWJmNjdhNjY2NTlhNzFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RuqL0o2Wiia5TAS_Zv4JjJeWmly1BcZS1VU4X8OFSug">
+<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Karim avatar" src="https://postimg.cc/F7b4yX8t">
 
 ## <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm Karim
 
